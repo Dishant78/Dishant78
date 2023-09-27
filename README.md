@@ -2,7 +2,7 @@
 - 👀 I’m interested in security
 - 🌱 I’m currently learning many thing(actually i don't know excatly what)
 - 💞️ I’m looking to collaborate on @dishant_ptl_(insta) or dishantptl04@gmail.com(better do it here)
-- 📫 How to reach me on my mail
+- 📫 reach me on my mail
 
 <!---
 Dishant78/Dishant78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
